@@ -1,16 +1,16 @@
 ### Hi there 👋
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+- Welcome to my GitHub profile! I'm Ayushi Here, you'll find a collection of repositories showcasing my journey as a developer and my passion for exploring different areas of technology.
 
-<!--
-**iushi6/iushi6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- From software applications and web development ,my projects cover a wide range of domains.
+- Feel free to explore and contribute to any of the repositories that catch your interest. 
 
-Here are some ideas to get you started:
+- 📫 How to reach me:
+-  LinkedIn :https://www.linkedin.com/in/ayushisaxena0606/
+-  LeetCode :https://leetcode.com/iushi/
+-  HackerRank :https://www.hackerrank.com/ayushis1506
+-  GeeksForGeeks :https://auth.geeksforgeeks.org/user/iushi06/practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+ Thank you for visiting my GitHub profile, and I hope you find something inspiring or helpful in the projects I've shared. 
 -->
