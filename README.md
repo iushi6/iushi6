@@ -14,3 +14,4 @@
 
  Thank you for visiting my GitHub profile, and I hope you find something inspiring or helpful in the projects I've shared. 
 -->
+![image](https://github.com/iushi6/iushi6/assets/121929302/558ee097-2566-4a2a-a1ff-8af65dcddd01)
