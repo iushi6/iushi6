@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I am Ayushi Saxena.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Welcome to my GitHub profile! I'm Ayushi Here, you'll find a collection of repositories showcasing my journey as a developer and my passion for exploring different areas of technology.
 
