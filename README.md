@@ -5,6 +5,8 @@
 - From software applications and web development ,my projects cover a wide range of domains.
 - Feel free to explore and contribute to any of the repositories that catch your interest. 
 
+![image](https://github.com/iushi6/iushi6/assets/121929302/a9cfffbb-14bd-47f4-9b22-46c5f42cb775)
+
 - 📫 How to reach me:
 -  LinkedIn :https://www.linkedin.com/in/ayushisaxena0606/
 -  LeetCode :https://leetcode.com/iushi/
