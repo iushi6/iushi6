@@ -3,9 +3,9 @@
 - Welcome to my GitHub profile! I'm Ayushi Here, you'll find a collection of repositories showcasing my journey as a developer and my passion for exploring different areas of technology.
 
 - From software applications and web development ,my projects cover a wide range of domains.
-- Feel free to explore and contribute to any of the repositories that catch your interest. 
-
-![image](https://github.com/iushi6/iushi6/assets/121929302/a9cfffbb-14bd-47f4-9b22-46c5f42cb775)
+- Feel free to explore and contribute to any of the repositories that catch your interest.
+- 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 📫 How to reach me:
 -  LinkedIn :https://www.linkedin.com/in/ayushisaxena0606/
